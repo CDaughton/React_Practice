@@ -4,7 +4,7 @@ import thumbsUp from './images/thumbs_up.jpg'
 function Header(props) {
   return (
     <header>
-      <h1>{props.name}'s AWSOME NEW WEBPAGE</h1>
+      <h1>{props.name}'s AWESOME NEW WEBPAGE</h1>
     </header>
   );
 }
